@@ -1,4 +1,4 @@
-/**
+/*
 * Template Name: Personal
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
@@ -196,7 +196,7 @@ h6 {
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-/**
+/*
 * Desktop Navigation 
 */
 .navbar {
@@ -268,7 +268,7 @@ h6 {
   color: #fff;
 }
 
-/**
+/*
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
