@@ -1,6 +1,6 @@
 [
     {
-        "title": "RTS (Real-Time Strategy) game",
+        "title": "RTS Project",
         "images": [
         "assets/img/portfolio/rts_img1.png"
         ],
@@ -9,11 +9,11 @@
         "date": "Ongoing (14 December, 2023)",
         "url": "#",
         "git_repo": "https://github.com/TediYannick/PA_RTS/tree/evan",
-        "description": "<br><strong>Tech-stack</strong>: Unity, Blender",
+        "description": "Real-Time Strategy game in the developmental stage. We aim to create a top-down view PvE game with incremental difficulty, featuring third-person perspective boss fights.",
         "stack": "<i class='bx bxl-unity' style='font-size: 50px;'></i> <i class='bx bxl-blender' style='color: #EA7600; font-size: 50px'></i>"
     },
     {
-        "title": "Arcade Basketball VR",
+        "title": "Rings of Saturn",
         "images": [
         "assets/img/portfolio/rings_of_saturn_img1.png"
         ],
@@ -22,7 +22,7 @@
         "date": "Ongoing (20 Mars, 2024)",
         "url": "#",
         "git_repo": "https://github.com/evanXXI/PA_VR/tree/evan",
-        "description": "<br><strong>Tech-stack</strong>: Unity, Blender",
+        "description": "Arcade Basketball VR game",
         "stack": "<i class='bx bxl-unity' style='font-size: 50px;'></i> <i class='bx bxl-blender' style='color: #EA7600; font-size: 50px'></i>"
     },
     {
@@ -35,7 +35,7 @@
         "date": "Ongoing (2 July, 2023)",
         "url": "#",
         "git_repo": "https://gitlab.com/evanXXI/nexusware/-/tree/develop?ref_type=heads",
-        "description": "<br><strong>Tech-stack</strong>: HTML5, CSS3, BOOTSTRAP 5, JQuery, PHP",
+        "description": "Database design, Website prototyping with a responsive and dynamic interface, development of CRUD database access components. Still in developmental phase.",
         "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px'></i> <i class='bx bxl-jquery' style='color: #0769ad; font-size: 50px;'></i> <i class='bx bxl-php' style='font-size: 50px;'></i>" 
         },
     {
@@ -49,7 +49,7 @@
         "date": "16 July, 2023",
         "url": "#",
         "git_repo": "https://gitlab.com/evanXXI/myjavascriptrealisations/-/tree/develop/js/quoteGenerator?ref_type=heads",
-        "description": "<br><strong>Tech-stack</strong>: HTML5, CSS3, BOOTSTRAP 5, Javascript",
+        "description": "Website prototyping with a dynamic and responsive interface.Random quotes are dynamically selected from an array of character strings.",
         "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px'></i> <i class='bx bxl-javascript' style='color: #f0db4f; font-size: 50px;'></i>" 
         },
     {
@@ -64,7 +64,7 @@
         "date": "18 July, 2023",
         "url": "#",
         "git_repo": "https://gitlab.com/evanXXI/myunicorn-responsive-website/-/tree/develop?ref_type=heads",
-        "description": "<br><strong>Tech-stack</strong>: HTML5, CSS3, BOOTSTRAP 5",
+        "description": "Website prototyping with a static and responsive interface, created from a mockup.",
         "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px;'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px;'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px;'></i>" 
         }
 ]
