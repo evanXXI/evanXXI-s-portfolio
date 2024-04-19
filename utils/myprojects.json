@@ -1,0 +1,70 @@
+[
+    {
+        "title": "RTS (Real-Time Strategy) game",
+        "images": [
+        "assets/img/portfolio/rts_img1.png"
+        ],
+        "category": "Game",
+        "client": "None (academic purpose)",
+        "date": "Ongoing (14 December, 2023)",
+        "url": "#",
+        "git_repo": "https://github.com/TediYannick/PA_RTS/tree/evan",
+        "description": "<br><strong>Tech-stack</strong>: Unity, Blender",
+        "stack": "<i class='bx bxl-unity' style='font-size: 50px;'></i> <i class='bx bxl-blender' style='color: #EA7600; font-size: 50px'></i>"
+    },
+    {
+        "title": "Arcade Basketball VR",
+        "images": [
+        "assets/img/portfolio/rings_of_saturn_img1.png"
+        ],
+        "category": "Game",
+        "client": "None (academic purpose)",
+        "date": "Ongoing (20 Mars, 2024)",
+        "url": "#",
+        "git_repo": "https://github.com/evanXXI/PA_VR/tree/evan",
+        "description": "<br><strong>Tech-stack</strong>: Unity, Blender",
+        "stack": "<i class='bx bxl-unity' style='font-size: 50px;'></i> <i class='bx bxl-blender' style='color: #EA7600; font-size: 50px'></i>"
+    },
+    {
+        "title": "NexusWare",
+        "images": [
+            "assets/img/portfolio/nexusware_img1.png"
+        ],
+        "category": "Website",
+        "client": "None (academic purpose)",
+        "date": "Ongoing (2 July, 2023)",
+        "url": "#",
+        "git_repo": "https://gitlab.com/evanXXI/nexusware/-/tree/develop?ref_type=heads",
+        "description": "<br><strong>Tech-stack</strong>: HTML5, CSS3, BOOTSTRAP 5, JQuery, PHP",
+        "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px'></i> <i class='bx bxl-jquery' style='color: #0769ad; font-size: 50px;'></i> <i class='bx bxl-php' style='font-size: 50px;'></i>" 
+        },
+    {
+        "title": "Quote Randomizer",
+        "images": [
+            "assets/img/portfolio/quote_randomizer_img1.png",
+            "assets/img/portfolio/quote_randomizer_img2.png"
+        ],
+        "category": "Website",
+        "client": "None (academic purpose)",
+        "date": "16 July, 2023",
+        "url": "#",
+        "git_repo": "https://gitlab.com/evanXXI/myjavascriptrealisations/-/tree/develop/js/quoteGenerator?ref_type=heads",
+        "description": "<br><strong>Tech-stack</strong>: HTML5, CSS3, BOOTSTRAP 5, Javascript",
+        "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px'></i> <i class='bx bxl-javascript' style='color: #f0db4f; font-size: 50px;'></i>" 
+        },
+    {
+        "title": "MyUnicorn",
+        "images": [
+            "assets/img/portfolio/myunicorn_img1.png",
+            "assets/img/portfolio/myunicorn_img2.png",
+            "assets/img/portfolio/myunicorn_img3.png"
+        ],
+        "category": "Website",
+        "client": "None (academic purpose)",
+        "date": "18 July, 2023",
+        "url": "#",
+        "git_repo": "https://gitlab.com/evanXXI/myunicorn-responsive-website/-/tree/develop?ref_type=heads",
+        "description": "<br><strong>Tech-stack</strong>: HTML5, CSS3, BOOTSTRAP 5",
+        "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px;'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px;'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px;'></i>" 
+        }
+]
