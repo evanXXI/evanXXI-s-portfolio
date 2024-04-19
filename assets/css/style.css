@@ -353,7 +353,7 @@ section {
   z-index: 2;
 }
 
-section .section-show {
+section.section-show {
   top: 100px;
   bottom: auto;
   opacity: 1;
