@@ -55,7 +55,7 @@ $(document).ready(function() {
                 <li><strong>Git Repository</strong>: <a href="${project.git_repo}">My Link</a></li>
                 <li>
                     ${project.stack}
-                <li>
+                </li>
                     <p>${project.description}</p>
                 </li>
             </ul>
