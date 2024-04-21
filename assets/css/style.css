@@ -787,6 +787,11 @@ section .container {
   margin-bottom: 30px;
 }
 
+.portfolio-item img {
+  max-width: 100%; /* Ensure images don't exceed the width of their container */
+  height: auto; /* Maintain the aspect ratio of the images */
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 15px auto;
