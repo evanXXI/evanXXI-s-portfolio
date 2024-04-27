@@ -18,12 +18,12 @@ $(document).ready(function() {
             // Find the project with the matching ID
             let project = data[projectId - 1]; // Adjust index since IDs start from 1
             
-            // -------------------Start Debug
+            /* -------------------Start Debug
             console.log("Project Data:", data);
             console.log("Selected Project:", project); 
             console.log("Git Repository:", project.git_repo);
             console.log("Description:", project.description);
-            // ---------------------End debug
+               ---------------------End debug */
 
             // Set project title
             $('.portfolio-title').text(project.title);
