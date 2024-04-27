@@ -785,6 +785,7 @@ section .container {
 --------------------------------------------------------------*/
 
 .portfolio-container {
+  position: relative !important;
   height: auto !important;
 }
 
