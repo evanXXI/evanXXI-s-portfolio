@@ -18,6 +18,9 @@ $(document).ready(function() {
             projectHTML += '<a href="portfolio-details.html?project=' + (index + 1) + '" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>';
             projectHTML += '</div></div></div></div>';
 
+            // Ajout de style à la liste de projets
+            $("#projectList").attr("style", "position: relative; height: auto;");
+            
             // Ajout du projet à la liste des projets
             $('#projectList').append(projectHTML);
         });
