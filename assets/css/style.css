@@ -784,10 +784,11 @@ section .container {
 # Portfolio
 --------------------------------------------------------------*/
 
-.portfolio-container {
+.row .portfolio-container {
   position: relative !important;
   height: auto !important;
 }
+
 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
