@@ -784,10 +784,12 @@ section .container {
 # Portfolio
 --------------------------------------------------------------*/
 
+/*
 .row .portfolio-container {
   position: relative !important;
   height: auto !important;
 }
+*/
 
 
 .portfolio .portfolio-item {
