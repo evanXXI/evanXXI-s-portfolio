@@ -34,7 +34,7 @@
         "client": "None (academic purpose)",
         "date": "Ongoing (2 July, 2023)",
         "url": "#",
-        "git_repo": "https://gitlab.com/evanXXI/nexusware/-/tree/develop?ref_type=heads",
+        "git_repo": "https://github.com/evanXXI/nexusware/tree/develop",
         "description": "Database design, Website prototyping with a responsive and dynamic interface, development of CRUD database access components. Still in developmental phase.",
         "stack": "<i class='bx bxl-html5' style='color: #FF5733; font-size: 50px'></i> <i class='bx bxl-css3' style='color: #264de4; font-size: 50px'></i> <i class='ri-bootstrap-fill' style='color: #7a43b6; font-size: 50px'></i> <i class='bx bxl-jquery' style='color: #0769ad; font-size: 50px;'></i> <i class='bx bxl-php' style='font-size: 50px;'></i>" 
         },
